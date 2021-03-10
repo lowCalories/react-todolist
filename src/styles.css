@@ -80,6 +80,8 @@ html {
 
 .add {
   padding: 16px;
+  position: absolute;
+  margin-top: 100px;
 }
 
 .add-form {
